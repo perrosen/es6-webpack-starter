@@ -1,3 +1,5 @@
+import '../css/style.css';
+
 document.querySelector('body').innerHTML = `
-  <p>Hello</p>
+  <p class="hello">Hello</p>
 `;
